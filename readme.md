@@ -12,19 +12,23 @@ type this in the terminal `pip install requirements.txt`
 Run the .exe file
 
 You will get two messages:
+
 ![example](data_input.jpeg)
 
 Answer the respective data (be sure that your password doesn't have the ":" character)
 
 Then, the terminal will prompt another message:
+
 ![example](account_input.jpeg)
 
 Paste the username of the account you want to scrape, and press enter.
 
 The program will be scraping the user data, after that, will scrape information from the accounts that the user are following. The terminal will be prompt each followed account.
+
 ![example](users_scraped_input.jpeg)
 
 Note: instagram only allow to scrape 200 accounts (instagram policies), then you will need to wait 30 minutes aproximately, and then, scrape the data of other user.
+
 ![example](error_output.jpeg)
 When you see that error type `shift + C` two times.
 
